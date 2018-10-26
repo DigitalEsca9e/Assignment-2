@@ -1,0 +1,35 @@
+body{ background-image: url(cableheader2-733x366_c.jpg);
+	margin: 0px 40px;
+	border-width:10;
+	border-style:solid;
+	}
+#head{
+	background-color:brown;
+	padding: 20px;
+	text-align:center;
+	font-family:garamond, serif;
+	text-transform:uppercase;
+	position:fixed;
+	width:1223px;
+	z-index:2;
+
+}
+div{
+	background-color:chocolate;
+	padding:40px;
+	position:relative;
+	bottom:22px;
+	z-index:1;
+	font-weight:bold;
+}
+ol > li{
+	color:navy;
+}
+
+ul, ol{
+	font-size:20px;
+	
+}
+.notes{font-size:14px;
+		color:maroon;
+	}
